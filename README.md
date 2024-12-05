@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I'm Abdelrahman Essam
+ **Software Engineer**
+I am a student at the Faculty of Engineering, Alexandria University, specializing in the Computer and Communications Department.
 
+Skills:
+
+C/C++
+
+Rust
+
+Java
 <!--
 **AbdelrahmanEssam1007/AbdelrahmanEssam1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
