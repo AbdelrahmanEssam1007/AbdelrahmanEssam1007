@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Abdelrahman!<br>I am a student at the Faculty of Engineering, Alexandria University, specializing in the Computer and Communications Department.<br><br>I am very passionate about software development, game development, optimisation, 3D rendering, and much more!
+Hello there, I'm Abdelrahman!<br>I am a student at the Faculty of Engineering, Alexandria University, specializing in the Computer and Communications Department.<br><br>I am very passionate about software development, game development, optimisation, 3D rendering, and much more!
 
 
 ## 🌐 Socials:
